@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sand-in-my-boots/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Sand in My Boots](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sand-in-my-boots/) |
+| **Get License** | [Request Licensing for Sand in My Boots](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sand-in-my-boots/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I still got the sand from the beach in my boots
+> I still got the taste of the wine and the truth
+> When you pulled me in close in the fading light
+> I knew I was yours for the rest of the night
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

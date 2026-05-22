@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sand in My Boots
+
+This log tracks the cryptographic history and versioning for the song **Sand in My Boots** (sand-in-my-boots).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-23T05:19:14.483763 | `v1` | `35ff87a4c81efa3bbbd6832d2156d15ccffb667c612fd265876370b4295c375a` | `55ad84a0944833ad1168c149cbfa6aab46631445d7c48246c92037903028189f` | `2026-05-23_sand-in-my-boots-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
